@@ -12,7 +12,7 @@ Ya que se descomprimio el archivo podemos iniciar el serivio.
 # POSTGRES_PASSWORD=<PASSWORD> docker-compose up
 ```
 
-Para elimitar la carpeta data donde se encuentra los datos. esto en el caso querer cargar los datos de nuevo.
+Para elimitar la carpeta `data` donde se encuentra los datos. Esto en el caso querer cargar los datos de nuevo.
 
 Cambiar permisos
 
